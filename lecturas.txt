@@ -180,3 +180,4 @@ Temperatura = 30.60 C
 Temperatura = 30.60 C
 Temperatura = 30.60 C
 Humedad = 20.40 %
+Temperatura = 30.60 C
