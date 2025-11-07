@@ -648,3 +648,4 @@ Humedad = 19.40 %
 Temperatura = 30.90 C
 Temperatura = 30.90 C
 Temperatura = 30.90 C
+Temperatura = 30.90 C
