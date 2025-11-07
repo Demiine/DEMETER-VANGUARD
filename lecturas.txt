@@ -616,3 +616,4 @@ Humedad = 19.60 %
 Humedad = 19.60 %
 Humedad = 19.60 %
 Humedad = 19.60 %
+Temperatura = 30.80 C
