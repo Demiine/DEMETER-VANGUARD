@@ -209,3 +209,4 @@ Temperatura = 30.50 C
 Humedad = 20.20 %
 Humedad = 20.20 %
 Temperatura = 30.50 C
+Temperatura = 30.50 C
