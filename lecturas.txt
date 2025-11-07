@@ -761,3 +761,4 @@ Humedad = 20.20 %
 Temperatura = 30.90 C
 Temperatura = 30.80 C
 Temperatura = 30.90 C
+Temperatura = 30.80 C
