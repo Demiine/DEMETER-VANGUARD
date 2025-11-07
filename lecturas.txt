@@ -686,3 +686,4 @@ Temperatura = 31.00 C
 Temperatura = 31.00 C
 Temperatura = 31.00 C
 Temperatura = 31.00 C
+Temperatura = 31.00 C
