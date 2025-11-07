@@ -173,3 +173,4 @@ Temperatura = 30.60 C
 Temperatura = 30.70 C
 Temperatura = 30.60 C
 Temperatura = 30.60 C
+Humedad = 20.40 %
