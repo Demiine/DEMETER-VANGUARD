@@ -154,3 +154,4 @@ Temperatura = 30.60 C
 Temperatura = 30.60 C
 Humedad = 22.60 %
 Humedad = 22.30 %
+Humedad = 22.00 %
