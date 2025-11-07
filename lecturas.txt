@@ -115,3 +115,4 @@ Humedad = 20.40 %
 Humedad = 20.40 %
 Temperatura = 30.40 C
 Humedad = 20.40 %
+Temperatura = 30.40 C
