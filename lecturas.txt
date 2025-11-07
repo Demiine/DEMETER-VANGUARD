@@ -93,3 +93,4 @@ Temperatura = 30.40 C
 Temperatura = 30.40 C
 Temperatura = 30.40 C
 Temperatura = 30.40 C
+Temperatura = 30.40 C
