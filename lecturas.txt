@@ -327,3 +327,4 @@ Temperatura = 30.40 C
 Humedad = 20.00 %
 Humedad = 20.00 %
 Temperatura = 30.40 C
+Humedad = 20.00 %
