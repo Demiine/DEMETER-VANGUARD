@@ -305,3 +305,4 @@ Humedad = 20.00 %
 Humedad = 20.00 %
 Humedad = 20.00 %
 Humedad = 20.00 %
+Temperatura = 30.50 C
