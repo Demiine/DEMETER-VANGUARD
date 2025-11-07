@@ -99,3 +99,4 @@ Humedad = 20.50 %
 Humedad = 20.50 %
 Temperatura = 30.40 C
 Humedad = 20.50 %
+Humedad = 20.50 %
