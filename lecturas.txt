@@ -552,3 +552,4 @@ Humedad = 19.10 %
 Humedad = 19.10 %
 Humedad = 19.10 %
 Temperatura = 30.70 C
+Humedad = 19.10 %
