@@ -587,3 +587,4 @@ Temperatura = 30.70 C
 Humedad = 19.60 %
 Temperatura = 30.70 C
 Humedad = 19.60 %
+Temperatura = 30.70 C
