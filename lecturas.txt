@@ -1,1 +1,2 @@
 
+Temperatura = 30.30 C
