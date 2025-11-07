@@ -429,3 +429,4 @@ Humedad = 19.40 %
 Temperatura = 30.60 C
 Humedad = 19.20 %
 Temperatura = 30.60 C
+Humedad = 19.20 %
