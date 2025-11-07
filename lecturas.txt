@@ -757,3 +757,4 @@ Humedad = 20.20 %
 Humedad = 20.20 %
 Humedad = 20.20 %
 Temperatura = 30.90 C
+Humedad = 20.20 %
