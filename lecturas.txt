@@ -260,3 +260,4 @@ Temperatura = 30.50 C
 Temperatura = 30.50 C
 Temperatura = 30.50 C
 Temperatura = 30.50 C
+Temperatura = 30.50 C
