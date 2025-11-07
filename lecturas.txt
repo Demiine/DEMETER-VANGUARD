@@ -803,3 +803,4 @@ Temperatura = 30.80 C
 Humedad = 20.30 %
 Humedad = 20.30 %
 Humedad = 20.30 %
+Temperatura = 30.70 C
