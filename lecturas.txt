@@ -169,3 +169,4 @@ Temperatura = 30.70 C
 Humedad = 20.60 %
 Temperatura = 30.60 C
 Humedad = 20.50 %
+Temperatura = 30.60 C
