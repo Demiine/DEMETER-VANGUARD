@@ -1,8 +1,1 @@
 
-Temperatura = 31.00 C
-Humedad = 20.00 %
-Temperatura = 31.00 C
-Humedad = 20.00 %
-Temperatura = 31.00 C
-Humedad = 20.00 %
-Temperatura = 31.00 C
