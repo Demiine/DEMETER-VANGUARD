@@ -191,3 +191,4 @@ Humedad = 20.30 %
 Temperatura = 30.60 C
 Temperatura = 30.60 C
 Temperatura = 30.60 C
+Temperatura = 30.50 C
