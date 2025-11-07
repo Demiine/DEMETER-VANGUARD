@@ -736,3 +736,4 @@ Humedad = 19.80 %
 Humedad = 20.00 %
 Temperatura = 31.00 C
 Temperatura = 31.00 C
+Temperatura = 31.00 C
