@@ -114,3 +114,4 @@
 26-11-2025, 10:35:41 a. m. → Temperatura = 28.60 C | Humedad = 48.00 %
 26-11-2025, 10:36:01 a. m. → Temperatura = 28.40 C | Humedad = 45.60 %
 26-11-2025, 10:36:21 a. m. → Temperatura = 28.10 C | Humedad = 44.60 %
+26-11-2025, 10:36:41 a. m. → Temperatura = 28.00 C | Humedad = 44.80 %
