@@ -181,3 +181,4 @@
 01-12-2025, 11:27:47 a. m. → Temperatura = 26.60 C | Humedad = 40.90 %
 01-12-2025, 11:28:07 a. m. → Temperatura = 26.70 C | Humedad = 40.70 %
 01-12-2025, 11:28:27 a. m. → Temperatura = 26.60 C | Humedad = 40.40 %
+03-12-2025, 11:41:55 a. m. → Temperatura = 23.40 C | Humedad = 42.00 %
